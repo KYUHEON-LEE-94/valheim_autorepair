@@ -27,4 +27,4 @@ Valheim Unified 0.42.0 no longer repairs by itself. Install this mod to keep
 automatic repair. Running it next to an older Valheim Unified is harmless: the
 second pass simply finds nothing left to repair.
 
-MIT licensed.
+Source: <https://github.com/KYUHEON-LEE-94/valheim_autorepair>. MIT licensed.
