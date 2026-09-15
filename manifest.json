@@ -1,0 +1,9 @@
+{
+  "name": "UnifiedAutoRepair",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/KYUHEON-LEE-94/valheim-unified",
+  "description": "Repairs every eligible item when you use a crafting station. Split out of Valheim Unified.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2350"
+  ]
+}
